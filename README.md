@@ -1,6 +1,6 @@
 # LifeSoda Data Analysis and modeling flavor popularity
 
-This project explores data from 50 vending stations of LifeSoda, a social enterprise that sells clean water and mineral and vitamin enriched seltzer at a subsidized cost to prevent malnutrition in some communities in developing countries.
+This weekend project explores data from 50 vending stations of LifeSoda, a social enterprise that sells clean water and mineral and vitamin enriched seltzer at a subsidized cost to prevent malnutrition in some communities in developing countries.
 Flavors, water tanks (500, 750, 1000L), and CO2 are consumable components. Solar powered battery lasts for 24 hours after power loss. Telemetry data might be transmitted periodically.
 Each person can vend once every 8 hours, and drink is 0.5 or 1L. May mix flavors up to the amount prepaid.
 
